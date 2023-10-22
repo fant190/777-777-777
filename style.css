@@ -1,0 +1,59 @@
+body{
+    background: rgb(0,212,255);
+background: linear-gradient(90deg, rgba(0,212,255,1) 19%, rgba(37,201,232,1) 33%, rgba(61,170,251,1) 47%, rgba(36,67,255,1) 59%, rgba(32,52,249,1) 71%, rgba(2,15,208,1) 80%, rgba(7,0,121,1) 100%);
+color: #fff;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+border-left: 3px dashed #fff;
+border-right: 3px dashed #fff;
+}
+.hed-img{
+    border-bottom: green;
+    border-top: green;
+    width: 150px;
+    height: 100px;
+    background: black;
+}
+h2{
+    text-shadow: 3px 2px 3px black;
+    font-size: 28px;
+}
+.hed-a{
+    text-shadow: 3px 2px 3px goldenrod;
+    color: gold;
+    text-decoration: none;
+    font-size: 23px;
+        padding-left: 10px;
+} 
+header{
+    border: 3px dashed #fff;
+}
+main{
+    border-top: 2px double #fff;
+    border-bottom: 2px double #fff;
+    padding: 3% 3% 3% 3%;
+}
+footer p{
+    border: 3px solid #000;
+    background: blueviolet;
+    text-shadow: 3px 2px 2px black;
+}
+footer{
+    border: 1px solid lawngreen;
+    background: lawngreen;
+}
+.hed-b{
+    text-shadow: 4px 3px 2px white;
+    color: black;
+    text-decoration: none;
+    font-size: 22px;
+    padding-left: 20px;   
+}
+p{
+    text-shadow: 2px 2px 3px blanchedalmond;
+}
+img{
+    background: black;
+    border: 3px dashed crimson;
+}
